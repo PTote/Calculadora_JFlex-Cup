@@ -1,0 +1,4 @@
+# Calculadora_JFlex-Cup
+La calculadora fue realizada con diferentes fuentes de documentación e información acerca de Jflex y Cup.
+
+Al descargar el proyecto y ejecutarlo en NetBeans, es necesario agregar la libreria "java-cup-11b-runtime". Esta se encuentra dentro de la carpeta llamada Fuentes.
