@@ -38,7 +38,7 @@ public class Integrantes extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("Integrantes");
-        setLocation(new java.awt.Point(1900, 250));
+        setLocation(new java.awt.Point(600, 250));
         setResizable(false);
 
         jLabel1.setText("Kevyn Salvador Posadas Tote Carne 201901858");
