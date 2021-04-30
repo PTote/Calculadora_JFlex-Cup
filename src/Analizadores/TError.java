@@ -7,7 +7,7 @@ package Analizadores;
 
 /**
  *
- * @author David
+ * @author Tote
  */
 public class TError {
     String lexema,tipo,descripcion;
