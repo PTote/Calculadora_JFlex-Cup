@@ -46,10 +46,6 @@ parser code
     }
 :}
 
-//------> Codigo para las acciones gramaticales
-action code
-{:
-:}
 
 /*--------------- 2da Area: Declaraciones -----------------------*/
 //------> declaracion de terminales 
